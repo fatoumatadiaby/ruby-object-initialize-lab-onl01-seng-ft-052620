@@ -1,5 +1,4 @@
 class Dog 
-class Dog
 
 def intitialize(name, breed = "Mutt")
   @name = name
